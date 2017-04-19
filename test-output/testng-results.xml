@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="89149" started-at="2017-04-18T18:38:31Z" finished-at="2017-04-18T18:40:00Z">
+  <suite name="Default suite" duration-ms="27202" started-at="2017-04-19T23:02:16Z" finished-at="2017-04-19T23:02:43Z">
     <groups>
     </groups>
-    <test name="**************************SampleTest*************************************" duration-ms="40882" started-at="2017-04-18T18:38:31Z" finished-at="2017-04-18T18:39:12Z">
+    <test name="Default test" duration-ms="27202" started-at="2017-04-19T23:02:16Z" finished-at="2017-04-19T23:02:43Z">
       <class name="Selenium.MavenTest">
-        <test-method status="PASS" signature="maven()[pri:0, instance:Selenium.MavenTest@3532ec19]" name="maven" duration-ms="25912" started-at="2017-04-18T14:38:31Z" finished-at="2017-04-18T14:38:57Z">
+        <test-method status="PASS" signature="maven()[pri:0, instance:Selenium.MavenTest@3ffc5af1]" name="maven" duration-ms="27149" started-at="2017-04-19T19:02:16Z" finished-at="2017-04-19T19:02:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- maven -->
       </class> <!-- Selenium.MavenTest -->
-      <class name="Selenium.MavenSample">
-        <test-method status="PASS" signature="test()[pri:0, instance:Selenium.MavenSample@59f99ea]" name="test" duration-ms="14878" started-at="2017-04-18T14:38:57Z" finished-at="2017-04-18T14:39:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- Selenium.MavenSample -->
-    </test> <!-- **************************SampleTest************************************* -->
-    <test name="%%%%%%%%%%%%%%%%%%%%%%%Sample TesNG test%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%" duration-ms="47216" started-at="2017-04-18T18:39:13Z" finished-at="2017-04-18T18:40:00Z">
-      <class name="Selenium.testing2">
-        <test-method status="PASS" signature="testig()[pri:0, instance:Selenium.testing2@464bee09]" name="testig" duration-ms="16949" started-at="2017-04-18T14:39:43Z" finished-at="2017-04-18T14:40:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testig -->
-      </class> <!-- Selenium.testing2 -->
-      <class name="Selenium.MavenTest">
-        <test-method status="PASS" signature="maven()[pri:0, instance:Selenium.MavenTest@6eebc39e]" name="maven" duration-ms="20731" started-at="2017-04-18T14:39:22Z" finished-at="2017-04-18T14:39:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- maven -->
-      </class> <!-- Selenium.MavenTest -->
-      <class name="Selenium.MavenSample">
-        <test-method status="PASS" signature="test()[pri:0, instance:Selenium.MavenSample@4dfa3a9d]" name="test" duration-ms="9528" started-at="2017-04-18T14:39:13Z" finished-at="2017-04-18T14:39:22Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- Selenium.MavenSample -->
-    </test> <!-- %%%%%%%%%%%%%%%%%%%%%%%Sample TesNG test%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-  </suite> <!-- Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
